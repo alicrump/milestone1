@@ -1,0 +1,12 @@
+---
+title: "Milestone 1"
+author: "Ali Crump"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I'm currently considering replicating the paper "Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston," by Alice J. Sommer, Mihye Lee, and Marie-Abèle C. Bind. The paper investigates whether changes in temperature or rainfall occurence influence Boston's violent crimes, and the authors find that there are less crimes reported on cold days and on rainy days. I am thinking of choosing this paper because I love the wide range of graphics they use and because I'm interested in the topic! (I listen to a lot of true crime podcasts and watch a lot of true crime documentaries).
